@@ -2,28 +2,6 @@
     box-sizing: border-box;
   }
 
-body{
-    background-image: url(img/bg.jpg);
-  background-position: center;
-  background-repeat: no-repeat; 
-  background-size: cover;
-    background-attachment: fixed;
-}
-
-.navbar-nav.mr-auto.text-capitalize li {
-  padding: 10px;
-  font-family: "Garamond";
-  font-size: 20px;
-  margin-top: 5px;
-}
-
-.navbar.navbar-expand-md.navbar-dark.mb-4 {
-  height: 50px;
-}
-.navbar-brand {
-  margin-top: 20px;
-}
-
   body{
       background-color: #F5F8FA;
       font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -113,6 +91,7 @@ body{
   }
 
 /*----------------------------------------------------------------------------------------------------------------------------*/
+
 
 
 
